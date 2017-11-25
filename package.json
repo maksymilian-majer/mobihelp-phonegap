@@ -1,0 +1,19 @@
+{
+  "name": "mobihelp-phonegap",
+  "version": "1.0.0",
+  "description": "### Deprecation Notice : This product is deprecated and no longer supported. To discuss moving to our newer offerings, please reach out to us at support@freshdesk.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maksymilian-majer/mobihelp-phonegap.git"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/maksymilian-majer/mobihelp-phonegap/issues"
+  },
+  "homepage": "https://github.com/maksymilian-majer/mobihelp-phonegap#readme"
+}
